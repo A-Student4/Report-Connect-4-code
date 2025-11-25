@@ -5,7 +5,7 @@ solvers, I show and explain how powerful it is playing first and in the middle
 column, in comparison to the other columns. I also show how player 2 can still
 win with a knowledge and skill advantage
 
-Contains code variations and references bibliography for the code.
+Contains code adaptations and references bibliography for the code.
 
 Original author of source code: Oscar Nieves
 
